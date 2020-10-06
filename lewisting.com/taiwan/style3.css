@@ -1,0 +1,89 @@
+
+img {
+    width: 200px;
+    border-radius: 100px;
+    vertical-align: middle;
+}
+
+.jumbotron {
+  background-color: rgb(133, 115, 250);
+}   
+
+#para h5 {
+    color: rgb(30, 16, 163);
+    font-weight: 800;
+    font-size: 40px;
+    font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+
+}
+
+#para img {
+    height: 125px;
+    width: 170px;
+    border-radius: 100%;
+    vertical-align: middle;
+}
+
+#para p {
+    font-size:26px;
+    font-weight: 600;
+    color:rgb(46, 37, 29)
+    
+}   
+#para p{
+    font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+}
+
+h1{
+    position: relative;
+    left: 780px;
+    bottom: 83px;
+    font-size: 80px;
+    font-weight: 800;
+    color: orange;
+    font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+
+}
+
+body {
+    background-color: black;
+}
+
+@media only screen and (max-width:768px) {
+    img {
+        width: 100px;
+        border-radius: 50px;
+        vertical-align: middle;
+    }
+    #para h5 {
+        font-size: 16px;
+        margin-right:200px
+    }
+    #para img {
+        height: 65px;
+        width: 80px;
+        border-radius: 100%;
+        vertical-align: middle;
+        margin-right:500px
+    }
+    #para p {
+        font-size:12px;
+        font-weight: 600;
+        color:rgb(46, 37, 29)
+        
+    }   
+    .jumbotron {
+        background-color: rgb(133, 115, 250);
+       
+      }   
+      h1{
+        position: relative;
+        left: 148px;
+        bottom: 54px;
+        font-size: 30px;
+        font-weight: 800;
+        color: orange;
+        font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+    
+    }
+}

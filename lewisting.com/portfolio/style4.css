@@ -1,0 +1,277 @@
+#intro img {
+    width:300px ;
+    border-radius: 0;
+ }
+ 
+ #intro a {
+     padding: 20px 80px;
+     font-weight: 700;
+     font-size: 20px;
+     color:rgba(0, 0, 0, 0.76);
+     font-family: 'Roboto Slab', serif;
+ 
+     
+     
+ }
+ 
+ #intro .jumbotron{
+     background-color:rgba(79, 5, 199, 0.8);
+     border-radius: 0%;
+     margin-bottom: 0rem;
+ }
+ 
+ html {
+     background-color:rgba(79, 5, 199, 0.8);
+  
+ }
+ 
+ #mid img {
+     border-radius: 80px;
+     position: relative; 
+     right:700px;
+ }
+ 
+ #mid h1 {
+    position: relative;
+    bottom: 105px;
+    left: -33px;
+    font-size: 48px;
+    color: rgb(5, 5, 5);
+    padding:20px 20px;
+ 
+ }
+ 
+ h3{
+     position: relative;
+     top:100px;
+     font-weight: 200;
+     font-size: 15px;
+     color:rgb(206, 223, 250);
+ }
+ 
+ div .jumbotron {
+     background-color:rgba(79, 5, 199, 0.8);
+ }
+ 
+ h2 {
+     padding: 30px 30px;
+     color:rgb(206, 223, 250);
+     position: relative ;
+     left:733px;
+     
+     bottom: 500px;
+
+
+ }
+
+ i {
+     padding: 30px 30px;
+ }
+ 
+ 
+ #textbox1 {
+     position: relative;
+     right: 200px;
+     bottom: 22px;
+     width:250px;
+     height:40px;
+     
+     
+ }
+ 
+ #textbox2 {
+    position: relative;
+    right: -211px;
+    bottom: 65px;
+    width:250px;
+    height:40px;
+}
+
+#textbox3 {
+    position: relative;
+    left: -202px;
+    bottom: 30px;
+   height:400px;
+   width: 800px ;
+    resize: none;
+}
+
+
+::placeholder {
+    font-size: 20px;
+}
+
+
+#btn1 {
+    font-size:30px;
+    color:blue;
+    padding: 15px 15px;
+    background-color:rgb(206, 223, 250);
+    border-radius:90px;
+    position: relative;
+    bottom: 441px;
+    right: 646px;
+    border:0;
+    
+
+    
+
+    
+}
+
+
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+
+#intro #submit:hover {
+    color:black;
+    text-decoration: none;
+}
+
+
+
+@media only screen and (max-width:768px) {
+
+    #intro img {
+        width:200px ;
+        border-radius: 0;
+     }
+     
+     #intro a {
+         padding: 10px 30px;
+         font-weight: 700;
+         font-size: 20px;
+         color:rgba(0, 0, 0, 0.76);
+         font-family: 'Roboto Slab', serif;
+     
+         
+         
+     }
+     
+     #intro .jumbotron{
+         background-color:rgba(79, 5, 199, 0.8);
+         border-radius: 0%;
+         margin-bottom: 0rem;
+     }
+     
+     html {
+         background-color:rgba(79, 5, 199, 0.8);
+      
+     }
+     
+     #mid img {
+         border-radius: 80px;
+         position: relative; 
+         right:700px;
+     }
+     
+     #mid h1 {
+        position: relative;
+        bottom: 52px;
+        left: -8px;
+        font-size: 48px;
+        color: rgb(5, 5, 5);
+        padding:20px 20px;
+     
+     }
+     
+     h3{
+        position: relative;
+    top: 300px;
+    font-weight: 200;
+    font-size: 15px;
+    color: rgb(206, 223, 250);
+     }
+     
+     div .jumbotron {
+         background-color:rgba(79, 5, 199, 0.8);
+     }
+     
+     h2 {
+        padding: 5px 5px;
+        color: rgb(206, 223, 250);
+        position: relative;
+        left: -22px;
+        bottom: 506px;
+        font-size: 18px;
+    
+     }
+    
+     i {
+         padding: 10px 10px;
+     }
+     
+     
+     #textbox1 {
+         position: relative;
+         right: 25px;
+         bottom: -269px;
+         width:250px;
+         height:40px;
+         
+         
+     }
+     
+     #textbox2 {
+        position: relative;
+        right: 25px;
+        bottom: -295px;
+        width:250px;
+        height:40px;
+    }
+    
+    #textbox3 {
+        position: relative;
+        left: -26px;
+        bottom: -318px;
+        height: 400px;
+        width: 332px;
+        resize: none;
+    }
+    
+    
+    ::placeholder {
+        font-size: 20px;
+    }
+    
+    
+    #btn1 {
+        font-size: 21px;
+        color: blue;
+        padding: 15px 15px;
+        background-color: rgb(206, 223, 250);
+        border-radius: 90px;
+        position: relative;
+        bottom: -179px;
+        right: 12px;
+        border: 0;
+    
+        
+    
+        
+    }
+    
+    
+    h1{
+        font-family: 'Roboto Slab', serif;
+    }
+    
+    
+    #intro #submit:hover {
+        color:black;
+        text-decoration: none;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+

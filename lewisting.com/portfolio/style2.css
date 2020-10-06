@@ -1,0 +1,146 @@
+#intro img {
+    width:300px ;
+    border-radius: 0;
+ }
+ 
+ #intro a {
+     padding: 20px 80px;
+     font-weight: 700;
+     font-size: 20px;
+     color:rgba(0, 0, 0, 0.76);
+     font-family: 'Roboto Slab', serif;
+ 
+     
+     
+ }
+ 
+ #intro .jumbotron{
+     background-color:rgba(79, 5, 199, 0.8);
+     border-radius: 0%;
+     margin-bottom: 0rem;
+ }
+ 
+ html {
+     background-color:rgba(79, 5, 199, 0.8);
+  
+ }
+ 
+ #mid img {
+     border-radius: 80px;
+     position: relative; 
+     right:700px;
+ }
+ 
+ #mid h1 {
+    position: relative;
+    bottom: 105px;
+    left: -4px;
+    font-size: 48px;
+    color: rgb(10, 36, 66);
+ 
+ }
+ 
+ h3{
+     position: relative;
+     top:100px;
+     font-weight: 200;
+     font-size: 15px;
+     color:rgb(206, 223, 250);
+ }
+ 
+ div .jumbotron {
+     background-color:rgba(79, 5, 199, 0.8);
+ }
+ 
+ h1{
+     padding: 30px 30px;
+     line-height: 1.5;
+     
+ }
+
+ #mid a:hover {
+color:rgb(42, 141, 233);
+ }
+
+
+
+
+ @media only screen and (max-width:768px) {
+    #intro img {
+        width:200px ;
+        border-radius: 0;
+     }
+     
+     #intro a {
+         padding: 10px 30px;
+         font-weight: 700;
+         font-size: 20px;
+         color:rgba(0, 0, 0, 0.76);
+         font-family: 'Roboto Slab', serif;
+     
+         
+         
+     }
+     
+     #intro .jumbotron{
+         background-color:rgba(79, 5, 199, 0.8);
+         border-radius: 0%;
+         margin-bottom: 0rem;
+     }
+     
+     html {
+         background-color:rgba(79, 5, 199, 0.8);
+      
+     }
+     
+     #mid img {
+         border-radius: 80px;
+         position: relative; 
+         right:700px;
+     }
+     
+     #mid h1 {
+        position: relative;
+        bottom: 85px;
+        left: -4px;
+        font-size: 18px;
+        color: rgb(10, 36, 66);
+     
+     }
+     
+     h3{
+         position: relative;
+         top:100px;
+         font-weight: 200;
+         font-size: 12px;
+         color:rgb(206, 223, 250);
+     }
+     
+     div .jumbotron {
+         background-color:rgba(79, 5, 199, 0.8);
+     }
+     
+     h1{
+         padding: 30px 30px;
+         line-height: 1.5;
+         
+     }
+    
+     #mid a:hover {
+    color:rgb(42, 141, 233);
+     }
+    
+     u {
+         position: relative;
+         bottom:100px;
+     }
+
+
+ }
+
+
+
+
+
+
+ 

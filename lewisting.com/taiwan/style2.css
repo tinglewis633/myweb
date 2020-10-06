@@ -1,0 +1,215 @@
+a {
+    background: rgba(40, 29, 138, 1);
+    padding: 20px 80px;
+    border-radius: 500px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+#intro .jumbotron {
+    background: url('PIC/map.jpg');
+    height:100vh;
+    background-repeat: no-repeat;
+  
+    background-color: black ;
+}
+
+
+#one a{
+    position: relative;
+    left: -350px;
+    top: -50px;
+}
+
+#two a{
+    position: relative;
+    left: -350px;
+    top: -6px;
+}
+
+#three a{
+    position: relative;
+    left: -350px;
+    top: 30px;
+}
+
+#four a{
+    position: relative;
+    left: -350px;
+    top: 107px;
+}
+
+#five a{
+    position: relative;
+    left: -350px;
+    top: 200px;
+}
+
+#six a{
+    position: relative;
+    left: -350px;
+    top: 275px;
+}
+#seven a{
+    position: relative;
+    left: -350px;
+    top: 360px;
+}
+#eight a{
+    position: relative;
+    left: -350px;
+    top: 412px;
+}
+#nine a{
+    position: relative;
+    left: -212px;
+    top: 463px;
+}
+#ten a{
+    position: relative;
+    left: 825px;
+    top: -439px;
+}
+#eleven a{
+    position: relative;
+    left: 825px;
+    top: -345px;
+}
+#twelve a{
+    position: relative;
+    left: 825px;
+    top: -270px;
+}
+#thirteen a{
+    position: relative;
+    left: 825px;
+    top: -177px;
+}
+#fourteen a{
+    position: relative;
+    left: 825px;
+    top: -60px;
+}
+#fifteen a{
+    position: relative;
+    left: 825px;
+    top: 40px;
+}
+
+html {
+    margin-left: 500px;
+    background-color: black;
+}
+
+@media only screen and (max-width:768px) {
+    a {
+        background: rgba(40, 29, 138, 1);
+        padding: 2px 5px;
+        border-radius: 20px;
+        font-size: 12px;
+      
+    }
+
+    
+    #intro .jumbotron {
+        background: url('../taiwan/PIC/map.jpg');
+        height:350px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: black ;
+        border-radius: 0%;
+        margin-top: 125px;
+    }
+
+
+    
+    html {
+        overflow-x: hidden;
+        
+        position: relative;
+        margin-left: 30px;
+        background-color: black;
+    }
+
+    
+    #one a{
+        position: relative;
+        left: -42px;
+        top: -29px;
+    }
+    #two a{
+        position: relative;
+        left: -42px;
+        top: -24px;
+    }
+    
+    #three a{
+        position: relative;
+        left: -42px;
+        top: -24px;
+    }
+    
+    #four a{
+        position: relative;
+        left: -42px;
+        top: -10px;
+    }
+    
+    #five a{
+        position: relative;
+        left: -42px;
+        top: 10px;
+    }
+    
+    #six a{
+        position: relative;
+        left: -42px;
+        top: 33px;
+    }
+    #seven a{
+        position: relative;
+        left: -42px;
+        top: 52px;
+    }
+    #eight a{
+        position: relative;
+        left: -42px;
+        top: 60px;
+    }
+    #nine a{
+        position: relative;
+        left: -42px;
+        top: 80px;
+    }
+    #ten a{
+        position: relative;
+        left: 245px;
+        top: -238px;
+    
+    }
+    #eleven a{
+        position: relative;
+        left: 245px;
+        top: -216px;
+    }
+    #twelve a{
+        position: relative;
+        left: 245px;
+        top: -200px;
+    }
+    #thirteen a{
+        position: relative;
+        left: 245px;
+        top: -177px;
+    }
+    #fourteen a{
+        position: relative;
+        left: 245px;
+        top: -147px;
+    }
+    #fifteen a{
+        position: relative;
+        left: 245px;
+        top: -118px;
+    }
+}

@@ -1,0 +1,41 @@
+#intro .jumbotron {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Taipei_Skyline_2020.jpg/1200px-Taipei_Skyline_2020.jpg);
+    background-size: cover;
+    height:1000px
+   
+    
+
+}
+
+
+#intro a{
+    background: rgba(40, 29, 138, 0.8);
+    padding: 20px 60px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 208px;
+    font-size: 22px;
+    font-weight: 800;
+    
+}
+
+html {
+    background-color: black;
+}
+
+h1{
+    font-size: 65px;
+    font-weight: 800; 
+    color:rgb(18, 0, 179)
+    
+}
+
+#intro {
+
+}
+
+#intro a:hover{
+    color:gray;
+    text-decoration: none;
+}

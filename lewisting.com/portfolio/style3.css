@@ -1,0 +1,186 @@
+#intro img {
+    width:300px ;
+    border-radius: 0;
+ }
+ 
+ #intro a {
+     padding: 20px 80px;
+     font-weight: 700;
+     font-size: 20px;
+     color:rgba(0, 0, 0, 0.76);
+     font-family: 'Roboto Slab', serif;
+ 
+     
+     
+ }
+ 
+ #intro .jumbotron{
+     background-color:rgba(79, 5, 199, 0.8);
+     border-radius: 0%;
+     margin-bottom: 0rem;
+ }
+ 
+ html {
+     background-color:rgba(79, 5, 199, 0.8);
+  
+ }
+ 
+ #mid img {
+    border-radius: 30px;
+    position: relative;
+    right: 300px;
+    height: 300px;
+    width: 700px;
+    padding: 20px 20px;
+ }
+ 
+ #mid h1 {
+    position: relative;
+    bottom: 105px;
+    left: -4px;
+    font-size: 48px;
+    color: rgb(206, 223, 250);
+ 
+ }
+ 
+ h3{
+     position: relative;
+     top:100px;
+     font-weight: 200;
+     font-size: 15px;
+     color:rgb(206, 223, 250);
+     
+     left: 437px;
+ }
+ 
+ div .jumbotron {
+     background-color:rgba(79, 5, 199, 0.8);
+ }
+ 
+ #mid a {
+    
+    position: relative;
+    top: 131px;
+    color: rgb(20, 20, 121);
+    left: 666px;
+
+ }
+ 
+
+ p {
+    position: relative;
+    top: 73px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    
+ }
+ 
+
+ p {
+    left: 200px;
+ }
+
+
+
+
+
+
+
+
+ @media only screen and (max-width:768px) {
+
+    #intro img {
+        width:200px ;
+        border-radius: 0;
+     }
+     
+     #intro a {
+         padding: 10px 30px;
+         font-weight: 700;
+         font-size: 20px;
+         color:rgba(0, 0, 0, 0.76);
+         font-family: 'Roboto Slab', serif;
+     
+         
+         
+     }
+     
+     #intro .jumbotron{
+         background-color:rgba(79, 5, 199, 0.8);
+         border-radius: 0%;
+         margin-bottom: 0rem;
+     }
+     
+     html {
+         background-color:rgba(79, 5, 199, 0.8);
+      
+     }
+     
+     #mid img {
+        border-radius: 30px;
+        position: relative;
+        right: 300px;
+        height: 300px;
+        width: 700px;
+        padding: 20px 20px;
+     }
+     
+     #mid h1 {
+        position: relative;
+        bottom: 105px;
+        left: -4px;
+        font-size: 48px;
+        color: rgb(206, 223, 250);
+     
+     }
+     
+     h3{
+         position: relative;
+         top:100px;
+         font-weight: 200;
+         font-size: 15px;
+         color:rgb(206, 223, 250);
+         
+         left: 45px;
+     }
+     
+     div .jumbotron {
+         background-color:rgba(79, 5, 199, 0.8);
+     }
+     
+     #mid a {
+        
+        position: relative;
+        top: -23px;
+        color: rgb(20, 20, 121);
+        left: 229px;
+        padding: 5px 10px;
+        background-color: blue;
+        border-radius: 10px;
+        z-index: 1;
+     }
+     
+    
+     p {
+        position: relative;
+        top: -15px;
+        font-family: 'Oswald', sans-serif;
+        font-size: 20px;
+        
+     }
+     
+    
+     p {
+        left:-14px;
+        padding:20px 20px;
+     }
+    
+    
+    img#botimg {
+        width: 400px;
+        margin-left: 259px;
+        
+    }
+    
+    
+ }
